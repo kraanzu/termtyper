@@ -33,6 +33,13 @@ pip3 install .
 paru -S termtyper-git
 ```
 
+> Or maybe You use Windows, run CMD as Administrator
+
+```
+py -m pip install git+https://github.com/kraanzu/termtyper.git
+```
+
+
 And then simply type `termtyper` in your terminal to launch it.. ezy pzy
 
 > ⚠️ Note: Config file for `termtyper` is located at your $XDG_CONFIG_HOME (or ~/.config/termtyper)
